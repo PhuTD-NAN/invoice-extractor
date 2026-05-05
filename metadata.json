@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Table Extractor",
+  "description": "Upload PDF invoices to automatically extract goods and services tables into downloadable Excel files using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
